@@ -1,0 +1,58 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.logo-HeadDiv{
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.title{
+    color:#263238;
+    font-size: 30px;
+}
+.menu-nav{
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    padding: 9px;
+}
+.company-image{
+    display: flex;
+    height: 30px;
+}
+.login-button {
+    color: black;
+    padding: 8px;
+    border-style: none;
+    background: #F5F7FA;
+    gap: 7px;
+}
+.signUp-button{
+    color: white;
+    padding: 8px;
+    background-color: #4caf4f;
+    cursor: pointer;
+    border-style: none;
+    }
+.hero-div{
+    display: flex;
+}
+.eight-years{
+    display: block;
+    color: #4caf4f;
+}
+.register-button{
+    background-color: #4caf4f;
+    padding: 8px;
+    color: white;
+    border-radius: 6px;
+    border-style: none;
+    gap: 7px;
+
+}
+.hero-image{
+    /*display: flex;*/
+    display: block;
+}
